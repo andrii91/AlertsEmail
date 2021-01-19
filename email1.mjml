@@ -1,0 +1,185 @@
+<mjml>
+<mj-head>
+		<mj-title>Alert</mj-title>
+		<mj-preview>Alert</mj-preview>
+		<mj-attributes>
+      <mj-font name="Inter" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" />
+			<mj-all color="#19153E" font-family="'Inter', Helvetica Now Display,  Helvetica, Arial, sans-serif"></mj-all>
+			<mj-text font-weight="400" font-size="16px" color="#19153E" line-height="24px" font-family="'Inter', Helvetica, Arial, sans-serif"></mj-text>
+		</mj-attributes>
+    <mj-style inline="inline">
+			.body-section {
+				-webkit-box-shadow: 0px 4px 84px #00000026;
+				-moz-box-shadow: 0px 4px 84px #00000026;
+				box-shadow: 0px 4px 84px #00000026; 
+      }
+
+      .es-join-members {
+       	background-color: #FFFFFF;
+       	border: 1px solid #01AAFF;
+       	border-radius: 4px; 
+         text-align: center;
+          margin-left: 5px;
+          margin-top: 2px;
+          margin-bottom: 2px;
+      }
+      a {
+        color: #BDC6D2;
+        text-decoration: none;
+      }
+   
+		</mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper background-color="#FFFFFF" padding="20px 0 0"  css-class="body-section">
+        <!-- Company Header -->
+        <mj-section padding="20px 40px">
+            <mj-column padding="0">
+             <mj-table padding="0"> 
+              <tr>
+                <td style="padding: 6px 0 0 ; width: 24px; text-align: left; "> 
+                  <img src="images/logo.png" width="24px">
+                </td>
+                <td style="padding: 0 0 0 9px; font-style: normal;font-weight: 600;font-size: 22px;line-height: 1;color: #000000;">
+                  Alert: Back on stock <span style=" background: #FF2F58;display:inline-block;width: 14px;height: 14px;border-radius: 21px;"></span>
+                </td>
+              </tr>
+            </mj-table>
+            </mj-column>   
+        </mj-section> 
+
+        <mj-section padding="4px 40px 40px">
+       
+          <mj-column padding="0">
+            <mj-text padding="0" font-size="28px" font-weight="700">2 new bad review have been detected.</mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="0px 40px 10px">
+         <mj-column width="25%">
+            <mj-image padding="0 0 10px" align="left" width="127px" src="images/mailservice.png" />
+          </mj-column>
+          <mj-column width="5%" padding="0"> </mj-column>
+          <mj-column padding="0" width="70%">
+            <mj-text font-size="16px" line-height="24px" font-family="'Inter', sans-serif" padding="0">URBNFit Pilates Ring Fitness Circle - Weight Loss Body Toning Magic Circle and Resistance Exercise Fitness Ring Free Workout Guide Included.</mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="20px 40px 41px">
+
+          <mj-column padding="0 0 20px" width="46%">
+            <mj-text padding="0"><b>Seller account:</b> Sports Company</mj-text>
+          </mj-column>
+          <mj-column width="9%"></mj-column>
+          <mj-column padding="0 0 20px" width="45%">
+            <mj-text padding="0"><b>Parent ASIN:</b> B0798JLZP9 <br> 
+            <a href="#" style="color: #146AE1;font-weight: 500;">View Product on Amazon&nbsp;<img width="9" src="images/arrright.png" style=" font-size:16px;   vertical-align: middle;display: inline-block;" ></a></mj-text>
+          </mj-column>
+          
+          <mj-column padding="0 0 0px" width="46%">
+            <mj-text padding="0"><b>SKU:</b> Balance Disc Purple <br> 
+            <a href="#" style="color: #146AE1;font-weight: 500;">View Product on Seller Account&nbsp;<img width="9" src="images/arrright.png" style=" font-size:16px;  vertical-align: middle;display: inline-block;" ></a></mj-text>
+          </mj-column>
+          <mj-column width="9%"></mj-column>
+          <mj-column padding="0 0 0px" width="45%">
+            <mj-text padding="0"><b>ASIN:</b> B0798JLZP9 <br> 
+            <a href="#" style="color: #146AE1;font-weight: 500;">View Product on Amazon&nbsp;<img width="9" src="images/arrright.png" style=" font-size:16px;   vertical-align: middle;display: inline-block;" ></a></mj-text>
+          </mj-column>
+
+        </mj-section>
+
+        <mj-section padding="41px 40px 20px"> 
+          <mj-column padding="0">
+           <mj-text font-style="14px" line-height="17px" color="#000000" padding="0">Your current raiting:  <img style=" vertical-align: middle;display: inline-block; margin-left: 12px;" width="102" src="images/reyt.png" >
+           <b style="font-size: 16px; line-height: 19px; margin-left: 8px;">3.6 (78)</b>
+           </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="20px 40px 20px">
+          <mj-column padding="0">
+            <mj-image padding="0 0 5px" src="images/component15.png" width="80px" align="left" alt="" />
+            <mj-text color="#505876" padding="0" font-size="14px">You just received a new 2 star rating for your ASIN B01MQ1JLWY. wyant&nbsp;wrote&nbsp;"<b style="color: #000">Not&nbsp;happy </b>: No good".</mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="20px 40px 20px">
+          <mj-column padding="0">
+            <mj-image padding="0 0 5px" src="images/component16.png" width="68px" align="left" alt="" />
+            <mj-text color="#505876" padding="0 0 20px" font-size="14px">You just received a new 1 star rating for your ASIN B01MQ1JLWY.</mj-text>
+            <mj-text color="#505876" padding="0" font-size="14px">User 2020 wrote "<b style="color: #000000;">Bad results for me </b>: Didn't like this one. It made things worst. :(".</mj-text>
+          </mj-column>
+        </mj-section> 
+
+        <mj-section padding="20px 40px 40px">
+          <mj-column padding="0">
+            <mj-image padding="0 0 5px" src="images/component16.png" width="68px" align="left" alt="" />
+            <mj-text color="#505876" padding="0 0 20px" font-size="14px">You just received a new 3  star rating for your ASIN B01MQ1JLWY.</mj-text>
+            <mj-text color="#505876" padding="0" font-size="14px">Amazon Customer wrote "<b style="color: #000000;">I just bought this</b> : I just bought this and they already want a review. It tastes funny/bad. I've took it for one day, experienced no differences yet. Maybe I'll update it later.".</mj-text>
+          </mj-column>
+        </mj-section> 
+             
+
+        <mj-section padding="40px 40px 0px">
+          <mj-column padding="0">
+            <mj-table padding="0">
+              <tr>
+                <td style="width: 27%; padding: 0; font-style: normal;font-weight: normal;font-size: 14px;line-height: 21px;color: #000000; text-align: left;"> 
+                 Mute alerts like these
+                </td>
+                <td style="padding: 0; width: 73%">
+                 <span class="es-join-members" style="font-style: normal;font-weight: normal;font-size: 12px;line-height: 18px;color: #000000; width: 63px; padding: 7px 0; display:inline-block;">1 Hour</span>
+                 <span class="es-join-members" style="font-style: normal;font-weight: normal;font-size: 12px;line-height: 18px;color: #000000; width: 63px; padding: 7px 0; display:inline-block;">6 Hour</span>
+                 <span class="es-join-members" style="font-style: normal;font-weight: normal;font-size: 12px;line-height: 18px;color: #000000; width: 63px; padding: 7px 0; display:inline-block;">12 Hour</span>
+                 <span class="es-join-members" style="font-style: normal;font-weight: normal;font-size: 12px;line-height: 18px;color: #000000; width: 63px; padding: 7px 0; display:inline-block;">24 Hour</span>
+                 <span class="es-join-members" style="font-style: normal;font-weight: normal;font-size: 12px;line-height: 18px;color: #000000; width: 63px; padding: 7px 0; display:inline-block;">Forever</span>
+                </td>
+              </tr>
+            
+            </mj-table>
+          </mj-column>
+        </mj-section>             
+
+
+
+        <mj-section padding="40px 0 0">
+            <mj-column padding="0"><mj-divider padding="0"  border-width="1px" border-style="solid" border-color="#E6E6E6" /></mj-column>
+        </mj-section>
+
+        <mj-section padding="30px 40px 25px">
+          <mj-column padding="0">
+            <mj-text align="center" font-size="12px" line-height="18px" color="#505876" padding="0">
+              Copyright © 2020 EliteSeller Inc. All rights reserved. Address: Something something, 544-232.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="0px 40px 30px">
+          <mj-column padding="0">
+            <mj-table>
+            
+              <tr>
+                <td style="padding: 0; width: 50%; text-align: right;"> 
+                  <a href="#youtube"><img src="images/youtube.png" width="56px"></a>
+                </td>
+                <td style="padding: 0 ;width: 50%;">
+                  <a href="#fb" style="padding-left: 23px;"><img src="images/fb.png" width="23px"></a>
+                </td>
+              </tr>
+            
+            </mj-table>
+          </mj-column>
+        </mj-section>
+        
+        <mj-section padding="0 40px 25px">
+          <mj-column>
+            <mj-text padding="0" text-decoration="none" color="#BDC6D2" font-size="12px" line-height="18px" align="center"> 
+              <a  href="#">Unsubscribe</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a  href="#">Privacy Policy</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a  href="#">Contact Support </a>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+    </mj-wrapper>
+   
+  </mj-body> 
+</mjml> 

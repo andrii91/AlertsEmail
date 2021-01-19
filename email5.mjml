@@ -1,0 +1,195 @@
+<mjml>
+<mj-head>
+		<mj-title>Alert</mj-title>
+		<mj-preview>Alert</mj-preview>
+		<mj-attributes>
+      <mj-font name="Inter" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" />
+			<mj-all color="#19153E" font-family="'Inter', Helvetica Now Display,  Helvetica, Arial, sans-serif"></mj-all>
+			<mj-text font-weight="400" font-size="16px" color="#19153E" line-height="24px" font-family="'Inter', Helvetica, Arial, sans-serif"></mj-text>
+		</mj-attributes>
+    <mj-style inline="inline">
+			.body-section {
+				-webkit-box-shadow: 0px 4px 84px #00000026;
+				-moz-box-shadow: 0px 4px 84px #00000026;
+				box-shadow: 0px 4px 84px #00000026; 
+      }
+
+      .es-join-members {
+       	background-color: #FFFFFF;
+       	border: 1px solid #01AAFF;
+       	border-radius: 4px; 
+         text-align: center;
+          margin-left: 5px;
+          margin-top: 2px;
+          margin-bottom: 2px;
+      }
+      a {
+        color: #BDC6D2;
+        text-decoration: none;
+      }
+   
+		</mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper background-color="#FFFFFF" padding="20px 0 0"  css-class="body-section">
+        <!-- Company Header -->
+        <mj-section padding="20px 40px">
+            <mj-column padding="0">
+             <mj-table padding="0"> 
+              <tr>
+                <td style="padding: 6px 0 0 ; width: 24px; text-align: left; "> 
+                  <img src="images/logo.png" width="24px">
+                </td>
+                <td style="padding: 0 0 0 9px; font-style: normal;font-weight: 600;font-size: 22px;line-height: 42px;color: #000000;">
+                 Alert: Description <span style=" background: #EFB113;display:inline-block;width: 14px;height: 14px;border-radius: 21px;"></span>
+                </td>
+              </tr>
+            </mj-table>
+            </mj-column>   
+        </mj-section> 
+
+        <mj-section padding="4px 40px 40px">
+       
+          <mj-column padding="0">
+            <mj-text padding="0" line-height="42px" font-size="28px" font-weight="700">The description for ASIN (B06XZYX5QD) has changed.</mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="15px 40px 20px">
+         <mj-column>
+            <mj-image padding="0 0 " align="center" width="240px" src="images/mailservice2.png" />
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="20px 40px 40px">
+        <mj-column width="100%">
+            <mj-text padding="0 0 20px">
+                Prime Labs - Men's Test Booster - Natural Stamina, Endurance and Strength Booster - 60 Caplets.
+            </mj-text>
+        </mj-column>
+
+         <mj-column padding="0 0 20px" width="46%">
+            <mj-text padding="0"><b>Seller account:</b> Sports Company</mj-text>
+          </mj-column>
+          <mj-column width="9%"></mj-column>
+            <mj-column padding="0 0 20px" width="45%">
+            <mj-text padding="0"><b>Parent ASIN: </b> B0798JLZP9<br> 
+            <a href="#" style="color: #146AE1;font-weight: 500;">View Product on Amazon&nbsp;<img width="9" src="images/arrright.png" style=" font-size:16px;   vertical-align: middle;display: inline-block;" ></a></mj-text>
+          </mj-column>
+
+          <mj-column padding="0 0 0px" width="46%">
+            <mj-text padding="0"><b>SKU:</b>  Balance Disc Purple<br> 
+            <a href="#" style="color: #146AE1;font-weight: 500;">View Product on Seller Account&nbsp;<img width="9" src="images/arrright.png" style=" font-size:16px;  vertical-align: middle;display: inline-block;" ></a></mj-text>
+          </mj-column>
+          <mj-column width="9%"></mj-column>
+          <mj-column padding="0 0 0px" width="45%">
+            <mj-text padding="0"><b>ASIN: </b>B0798JLZP9<br> 
+            <a href="#" style="color: #146AE1;font-weight: 500;">View Product on Amazon&nbsp;<img width="9" src="images/arrright.png" style=" font-size:16px;   vertical-align: middle;display: inline-block;" ></a></mj-text>
+          </mj-column>
+
+        </mj-section>
+
+        
+        <mj-section padding="20px 40px 40px">
+
+            <mj-column width="100%">
+                <mj-table width="100%" padding="0" >
+                    <tr valign="top" style="text-align:left;padding:0 0 20px; ">
+                        <th style="padding: 0  0 20px; width: 50%;font-style: normal;font-weight: 500;font-size: 16px;line-height: 21px;letter-spacing: -0.0028em; color:#000000;">Deleted <span style="color: #BAB9C5;">( 4 )</span></th>
+                        <th style="padding: 0 0 20xp ;  width: 50%;font-style: normal;font-weight: 500;font-size: 16px;line-height: 21px;letter-spacing: -0.0028em; color:#000000;"> Added <span style="color: #BAB9C5;">( 3 )</span></th>
+                    </tr>
+                    <tr valign="top" >
+                        <td align="left" style="padding: 0 12px 40px 0; width: 50%;font-size: 14px;line-height: 28px;letter-spacing: -0.0028em;color: #000000;">
+                            <b>Unmatched Comfort </b>- Our proprietary "Double Flexion System" allows your feet to be hugged by our Thermoconformed Memory Foam Insole. You will feel like you are walking on pillows, while maintaining your .Lined with a Leather lining for added Genuine Berkshire Leather lining for added comfort. This&nbsp;improves support for your feet and your back. <b style="color: #FF325B;">TR&nbsp;Rubber with a Leather lining for added Genuine Berkshire sole.</b>
+                        </td>
+                        <td align="left"  style="padding: 0 0 40px 12px;  width: 50%;font-size: 14px;line-height: 28px;letter-spacing: -0.0028em;color: #000000;">
+                            <b>Unmatched Comfort</b> - Our proprietary "Double Flexion System" allows your feet to be hugged by our Thermoconformed Memory Foam Insole. You will feel like you are walking on pillows, while maintaining your masculine complex on the outside. Lined with a Genuine Berkshire Leather lining for added comfort. This improves support for your feet and your back..
+                        </td>
+                    </tr>
+
+                    <tr valign="top" >
+                        <td align="left" style="padding: 0 12px 40px 0; width: 50%;font-size: 14px;line-height: 28px;letter-spacing: -0.0028em;color: #000000;">
+                            <b>Sabatter Quality - Affordable Luxury </b>- Made by top local shoemakers and artisans in the city of Leon, Mexico, "the shoe capital of the world".  themselves on sourcing responsibly and workplace diversity within their company. Each shoe is made with love and pride at SABATTER. Lined with a Leather lining for added Genuine Berkshire Leather.
+                        </td>
+                        <td align="left"  style="padding: 0 0 40px 12px;  width: 50%;font-size: 14px;line-height: 28px;letter-spacing: -0.0028em;color: #000000;">
+                            <b>Abatter Quality - Affordable Luxury</b> - Made by top local shoemakers and artisans in the city of Leon, Mexico, "the shoe capital of the world". <b style="color: #00A154;">Sabatter prides</b> themselves on sourcing responsibly and workplace diversity within their company. Each shoe is made with love and pride at SABATTER.
+                        </td>
+                    </tr>
+
+                    <tr valign="top" >
+                        <td align="left" style="padding: 0 12px 0 0; width: 50%;font-size: 14px;line-height: 28px;letter-spacing: -0.0028em;color: #000000;">
+                           <b>Sabatter Quality - Affordable Luxury </b>- Made by top local shoemakers and artisans in the city of Leon, Mexico, "the shoe capital of the world".  themselves on sourcing responsibly and workplace diversity within their company. Each shoe is made with love and pride at SABATTER. Lined with a Leather lining for added Genuine Berkshire Leather.
+                        </td>
+                        <td align="left"  style="padding: 0 0 0 12px;  width: 50%;font-size: 14px;line-height: 28px;letter-spacing: -0.0028em;color: #000000;">
+                            <b>Abatter Quality - Affordable Luxury</b> - Made by top local shoemakers and artisans in the city of Leon, Mexico, "the shoe capital of the world". <b style="color: #00A154;">Sabatter prides</b> themselves on sourcing responsibly and workplace diversity within their company. Each shoe is made with love and pride at SABATTER. 
+                        </td>
+                    </tr>
+                   
+                </mj-table>
+            </mj-column>
+            
+        </mj-section>
+
+        <mj-section padding="40px 40px 0px">
+          <mj-column padding="0">
+            <mj-table padding="0">
+              <tr>
+                <td style="width: 27%; padding: 0; font-style: normal;font-weight: normal;font-size: 14px;line-height: 21px;color: #000000; text-align: left;"> 
+                 Mute alerts like these
+                </td>
+                <td style="padding: 0; width: 73%">
+                 <span class="es-join-members" style="font-style: normal;font-weight: normal;font-size: 12px;line-height: 18px;color: #000000; width: 63px; padding: 7px 0; display:inline-block;">1 Hour</span>
+                 <span class="es-join-members" style="font-style: normal;font-weight: normal;font-size: 12px;line-height: 18px;color: #000000; width: 63px; padding: 7px 0; display:inline-block;">6 Hour</span>
+                 <span class="es-join-members" style="font-style: normal;font-weight: normal;font-size: 12px;line-height: 18px;color: #000000; width: 63px; padding: 7px 0; display:inline-block;">12 Hour</span>
+                 <span class="es-join-members" style="font-style: normal;font-weight: normal;font-size: 12px;line-height: 18px;color: #000000; width: 63px; padding: 7px 0; display:inline-block;">24 Hour</span>
+                 <span class="es-join-members" style="font-style: normal;font-weight: normal;font-size: 12px;line-height: 18px;color: #000000; width: 63px; padding: 7px 0; display:inline-block;">Forever</span>
+                </td>
+              </tr>
+            
+            </mj-table>
+          </mj-column>
+        </mj-section>             
+
+
+
+        <mj-section padding="40px 0 0">
+            <mj-column padding="0"><mj-divider padding="0"  border-width="1px" border-style="solid" border-color="#E6E6E6" /></mj-column>
+        </mj-section>
+
+        <mj-section padding="30px 40px 25px">
+          <mj-column padding="0">
+            <mj-text align="center" font-size="12px" line-height="18px" color="#505876" padding="0">
+              Copyright © 2020 EliteSeller Inc. All rights reserved. Address: Something something, 544-232.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="0px 40px 30px">
+          <mj-column padding="0">
+            <mj-table>
+            
+              <tr>
+                <td style="padding: 0; width: 50%; text-align: right;"> 
+                  <a href="#youtube"><img src="images/youtube.png" width="56px"></a>
+                </td>
+                <td style="padding: 0 ;width: 50%;">
+                  <a href="#fb" style="padding-left: 23px;"><img src="images/fb.png" width="23px"></a>
+                </td>
+              </tr>
+            
+            </mj-table>
+          </mj-column>
+        </mj-section>
+        
+        <mj-section padding="0 40px 25px">
+          <mj-column>
+            <mj-text padding="0" text-decoration="none" color="#BDC6D2" font-size="12px" line-height="18px" align="center"> 
+              <a  href="#">Unsubscribe</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a  href="#">Privacy Policy</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a  href="#">Contact Support </a>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+    </mj-wrapper>
+   
+  </mj-body> 
+</mjml> 
