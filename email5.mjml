@@ -40,7 +40,7 @@
                 <td style="padding: 6px 0 0 ; width: 24px; text-align: left; "> 
                   <img src="images/logo.png" width="24px">
                 </td>
-                <td style="padding: 0 0 0 9px; font-style: normal;font-weight: 600;font-size: 22px;line-height: 42px;color: #000000;">
+                <td style="padding: 0 0 0 9px; font-style: normal;font-weight: 600;font-size: 22px;line-height: 1;color: #000000;">
                  Alert: Description <span style=" background: #EFB113;display:inline-block;width: 14px;height: 14px;border-radius: 21px;"></span>
                 </td>
               </tr>
